@@ -1,1 +1,1 @@
-var playlist = {Spotify};
+var playlist = {Lucero};
