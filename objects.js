@@ -4,5 +4,5 @@ var playlist = {
 }
 
 function updatePlaylist {
-  playlist , "Lucero" , "nights like these"
+  (playlist , "Lucero" , "nights like these")
 } return updatePlaylist;
