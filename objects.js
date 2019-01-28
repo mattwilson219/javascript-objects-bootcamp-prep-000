@@ -3,6 +3,8 @@ var playlist = {
   
 }
 
-function updatePlaylist {
-  (playlist , "Lucero" , "nights like these")
-} return updatePlaylist;
+function updatePlaylist(playlist, "artist", "Song") {
+  
+  
+  
+}
